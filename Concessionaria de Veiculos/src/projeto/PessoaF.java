@@ -1,4 +1,4 @@
-package uninove.projeto;
+package projeto;
 
 public class PessoaF extends Cliente{
     private String cpf;

@@ -1,4 +1,4 @@
-package uninove.projeto;
+package projeto;
 
 public class Cliente {
     protected String nome;
